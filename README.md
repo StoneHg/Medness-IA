@@ -2,4 +2,4 @@
 Medness - IA-PS
 
 
-https://mybinder.org/v2/gh/StoneHg/Medness-IA/main
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/StoneHg/Medness-IA/main)
